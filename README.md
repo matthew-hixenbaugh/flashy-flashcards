@@ -7,7 +7,7 @@ simple flashcard app for german vocab
 if the Score column does not exist, it will be created
 
 
-### importing your own language .csv
+### importing your own language .csv:
     
 -change DATA_PATH to the location of your new .csv
 
