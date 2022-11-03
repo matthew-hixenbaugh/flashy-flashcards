@@ -3,6 +3,7 @@ simple flashcard app for german vocab
 
 
 ./data/german_words.csv is the vocab input with columns: German,English,Score
+
 if the Score column does not exist, it will be created
 
 
